@@ -1,0 +1,6 @@
+env
+env/
+accounts/__pycache__
+config/__pycache__
+pages/__pycache__
+db.sqlite3
